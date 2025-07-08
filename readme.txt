@@ -1,2 +1,2 @@
-Link the qcow in your xemu app (Machine > Settings > System > Hard Disk)
-If the save file is damaged, similarly link the EEPROM
+Link the EEPROM in your xemu app (Machine > Settings > System > Hard Disk)
+Transfer the save file folder to virtual hard disk (TDATA folder) via FTP client
